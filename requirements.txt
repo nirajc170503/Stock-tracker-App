@@ -1,0 +1,12 @@
+matplotlib==3.9.0
+nsepy==0.8
+numpy==2.0.0
+pandas==2.2.2
+Pillow==10.3.0
+plotly==5.22.0
+python_dateutil==2.9.0.post0
+seaborn==0.13.2
+streamlit==1.35.0
+yfinance==0.2.40
+dateutil
+datetime
