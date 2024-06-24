@@ -60,7 +60,7 @@ st.markdown("""
 
 
 # Title and description
-st.title('Stock Analysis and Visualization App')
+st.title('Stock Analysis App')
 st.write('Welcome to the Stock Analysis and Visualization App! This interactive web application enables you to analyze various financial key performance indicators (KPIs) of stocks listed on the Indian stock markets. With advanced visualizations and machine learning models, this app provides deep insights and predictions to enhance your stock analysis experience.')
 
 # Using st.columns to create two columns
